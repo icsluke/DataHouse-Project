@@ -132,7 +132,7 @@ To calculate the overall score of compatibility we add your individual score of 
 
 <li>.2 - .39 means the applicant is <strong>not compatible</strong>.
 
-<li>.1 - .19 means the applicant is incredibly incompatible<strong> incredibly incompatible</strong>.
+<li>.01 - .19 means the applicant is incredibly incompatible<strong> incredibly incompatible</strong>.
 
 <li>If you have 0 your score is <strong>unavailable or 0</strong>.
 </li>
