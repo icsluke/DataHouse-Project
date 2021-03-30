@@ -222,7 +222,7 @@ public class program {
 				System.out.println(".6 - .79 means the applicant is compatible");
 				System.out.println(".4 - .59 means the applicant is less compatible");
 				System.out.println(".2 - .39 means the applicant is not compatible");
-				System.out.println(".1 - .19 means the applicant is incredibly incompatible");
+				System.out.println(".01 - .19 means the applicant is incredibly incompatible");
 				System.out.println("0 means the applicant's score is unavailable");
 				System.out.println("Compatibility has been calculated. Shutting down program.");
 				break;
